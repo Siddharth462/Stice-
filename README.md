@@ -1,0 +1,2 @@
+# Stice-
+Project for macrohacks
